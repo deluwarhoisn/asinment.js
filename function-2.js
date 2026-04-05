@@ -16,7 +16,7 @@
 // jogkorarmachin(20,10);
 
 function gunkoro(num1,num2){
-    return num1 / num2;
+    return num1 - num2;
 }
 let result = gunkoro(5,8);
 console.log(result)
